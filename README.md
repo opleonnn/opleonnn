@@ -1,5 +1,5 @@
 ### Hello World 👋
 
 - 📱 I'm an iOS engineer
-- Blog: https://opleonnn.github.io
 - 🌱 Learning SwiftUI recently
+- Blog: https://opleonnn.github.io
